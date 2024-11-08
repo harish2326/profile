@@ -28,15 +28,7 @@ ScrollReveal.js for smooth animations
 2. Navigate to the project directory:
      cd personal-portfolio  
 3. Open index.html in a browser to view the portfolio.
-
-🌟 Live Demo
-You can view the live demo of this project here.
-
-📬 Contact
-Feel free to reach out if you have any questions or suggestions:
-SV Harish
-https://github.com/harish2326Open index.html in a browser to view the portfolio.
-
+   
 🌟 Live Demo
 You can view the live demo of this project here.
 
